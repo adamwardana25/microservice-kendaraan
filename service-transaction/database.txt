@@ -1,0 +1,11 @@
+transaction:
+- id
+- status
+- user_id
+- vehicle_id
+- metadata
+
+transaction_logs:
+- id
+- status
+- transaction_id
