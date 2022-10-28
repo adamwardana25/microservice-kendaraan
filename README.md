@@ -11,3 +11,9 @@ Kode tersebut merupakan suatu implementasi dari penerapan arsitektur microservic
 ## Arsitektur Microservice Kendaraan
 
 [![microservice-kendaraan](https://user-images.githubusercontent.com/93570520/198578949-d13a603a-fdd3-4cb2-b2fc-07fc38f3a714.jpg)](url)
+
+## Auth
+| Method   | Route                             | Parameter | Body | Response | Admin | Customer
+| ---      | ---                               |
+| POST     | localhost:3000/users/register     |
+| Pipe     | \|    |
