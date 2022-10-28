@@ -12,3 +12,6 @@ Kode tersebut merupakan suatu implementasi dari penerapan arsitektur microservic
 
 [![microservice-kendaraan](https://user-images.githubusercontent.com/93570520/198578949-d13a603a-fdd3-4cb2-b2fc-07fc38f3a714.jpg)](url)
 
+## Endpoint
+
+https://documenter.getpostman.com/view/18642881/2s8YKAnj1y
